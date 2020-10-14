@@ -1,6 +1,4 @@
 # Hashes of file build rules.
-05217f81b4aebc013e69917ab0c456db data/ACE.bm
-cf4fa16ca5e8e6eb960c2a7df8fc906d data/LMC.bm
-e734014e6affc89eff92554ca43a4e8a data/amimagePal.plt
-52d9ebe1e38cae387255acd54b5ce553 data/arco32.bm
-a9d790caa521208587a2a9ab20f573eb data/tileset.bm
+3b69e189a44df22e9c4c23f239ca5b5a data
+5cd6daeef6d78f8f7915507c4eccc762 data/amimage.plt
+a7d7db4038eae4957e63199b2ccbd6d1 data/arco32.bm

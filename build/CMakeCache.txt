@@ -256,7 +256,7 @@ CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 //Path to a program.
 CMAKE_STRIP:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-strip.exe
 
-//The CMake toolchain file
+//No help, variable specified on the command line.
 CMAKE_TOOLCHAIN_FILE:FILEPATH=C:/Users/L3k/GitHubFalcon/GIT/AmigaCMakeCrossToolchains/m68k-bartman.cmake
 
 //If this value is on, makefiles will be generated without the

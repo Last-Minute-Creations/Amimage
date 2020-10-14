@@ -76,36 +76,18 @@ include CMakeFiles/amimage.elf.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/amimage.elf.dir/flags.make
 
-data/amimagePal.plt: ../res/amimagePal.pal
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating data/amimagePal.plt"
-	cd /d C:\Users\L3k\Amimage && C:\Users\L3k\Amimage\ACE\tools\bin\palette_conv C:/Users/L3k/Amimage/res/amimagePal.pal C:/Users/L3k/Amimage/build/data/amimagePal.plt
+data/amimage.plt: ../res/amimage.pal
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating data/amimage.plt"
+	cd /d C:\Users\L3k\Amimage && C:\Users\L3k\Amimage\ACE\tools\bin\palette_conv C:/Users/L3k/Amimage/res/amimage.pal C:/Users/L3k/Amimage/build/data/amimage.plt
 
-data/LMC.bm: data/amimagePal.plt
-data/LMC.bm: ../res/LMC.png
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating data/LMC.bm"
-	cd /d C:\Users\L3k\Amimage && C:\Users\L3k\Amimage\ACE\tools\bin\bitmap_conv C:/Users/L3k/Amimage/build/data/amimagePal.plt C:/Users/L3k/Amimage/res/LMC.png -o C:/Users/L3k/Amimage/build/data/LMC.bm -i
-
-data/ACE.bm: data/amimagePal.plt
-data/ACE.bm: ../res/ACE.png
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Generating data/ACE.bm"
-	cd /d C:\Users\L3k\Amimage && C:\Users\L3k\Amimage\ACE\tools\bin\bitmap_conv C:/Users/L3k/Amimage/build/data/amimagePal.plt C:/Users/L3k/Amimage/res/ACE.png -o C:/Users/L3k/Amimage/build/data/ACE.bm -i
-
-data/arco32.bm: data/amimagePal.plt
+data/arco32.bm: data/amimage.plt
 data/arco32.bm: ../res/arco32.png
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Generating data/arco32.bm"
-	cd /d C:\Users\L3k\Amimage && C:\Users\L3k\Amimage\ACE\tools\bin\bitmap_conv C:/Users/L3k/Amimage/build/data/amimagePal.plt C:/Users/L3k/Amimage/res/arco32.png -o C:/Users/L3k/Amimage/build/data/arco32.bm -i
-
-data/tileset.bm: data/amimagePal.plt
-data/tileset.bm: ../res/tileset.png
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Generating data/tileset.bm, data/tileset_mask.bm"
-	cd /d C:\Users\L3k\Amimage && C:\Users\L3k\Amimage\ACE\tools\bin\bitmap_conv C:/Users/L3k/Amimage/build/data/amimagePal.plt C:/Users/L3k/Amimage/res/tileset.png -o C:/Users/L3k/Amimage/build/data/tileset.bm -i -mc "#000000" -mf C:/Users/L3k/Amimage/build/data/tileset_mask.bm
-
-data/tileset_mask.bm: data/tileset.bm
-	@$(CMAKE_COMMAND) -E touch_nocreate data\tileset_mask.bm
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating data/arco32.bm"
+	cd /d C:\Users\L3k\Amimage && C:\Users\L3k\Amimage\ACE\tools\bin\bitmap_conv C:/Users/L3k/Amimage/build/data/amimage.plt C:/Users/L3k/Amimage/res/arco32.png -o C:/Users/L3k/Amimage/build/data/arco32.bm -i
 
 CMakeFiles/amimage.elf.dir/main.c.obj: CMakeFiles/amimage.elf.dir/flags.make
 CMakeFiles/amimage.elf.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/amimage.elf.dir/main.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/amimage.elf.dir/main.c.obj"
 	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\amimage.elf.dir\main.c.obj   -c C:\Users\L3k\Amimage\main.c
 
 CMakeFiles/amimage.elf.dir/main.c.i: cmake_force
@@ -118,7 +100,7 @@ CMakeFiles/amimage.elf.dir/main.c.s: cmake_force
 
 CMakeFiles/amimage.elf.dir/game.c.obj: CMakeFiles/amimage.elf.dir/flags.make
 CMakeFiles/amimage.elf.dir/game.c.obj: ../game.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/amimage.elf.dir/game.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/amimage.elf.dir/game.c.obj"
 	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\amimage.elf.dir\game.c.obj   -c C:\Users\L3k\Amimage\game.c
 
 CMakeFiles/amimage.elf.dir/game.c.i: cmake_force
@@ -163,7 +145,6 @@ amimage_elf_EXTERNAL_OBJECTS = \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/font.c.obj" \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.obj" \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj" \
-"C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj" \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj" \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj" \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj" \
@@ -213,7 +194,6 @@ amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/file.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/font.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj
-amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj
@@ -235,7 +215,7 @@ amimage.elf: ace/CMakeFiles/ace.dir/src/mini_std/string.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.obj
 amimage.elf: CMakeFiles/amimage.elf.dir/build.make
 amimage.elf: CMakeFiles/amimage.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable amimage.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable amimage.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\amimage.elf.dir\link.txt --verbose=$(VERBOSE)
 	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\..\elf2hunk.exe amimage.elf amimage.exe
 
@@ -248,12 +228,8 @@ CMakeFiles/amimage.elf.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles\amimage.elf.dir\cmake_clean.cmake
 .PHONY : CMakeFiles/amimage.elf.dir/clean
 
-CMakeFiles/amimage.elf.dir/depend: data/amimagePal.plt
-CMakeFiles/amimage.elf.dir/depend: data/LMC.bm
-CMakeFiles/amimage.elf.dir/depend: data/ACE.bm
+CMakeFiles/amimage.elf.dir/depend: data/amimage.plt
 CMakeFiles/amimage.elf.dir/depend: data/arco32.bm
-CMakeFiles/amimage.elf.dir/depend: data/tileset.bm
-CMakeFiles/amimage.elf.dir/depend: data/tileset_mask.bm
 	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\L3k\Amimage C:\Users\L3k\Amimage C:\Users\L3k\Amimage\build C:\Users\L3k\Amimage\build C:\Users\L3k\Amimage\build\CMakeFiles\amimage.elf.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/amimage.elf.dir/depend
 

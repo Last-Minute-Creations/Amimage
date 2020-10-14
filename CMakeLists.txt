@@ -23,17 +23,12 @@ set(RES_DIR ${CMAKE_CURRENT_LIST_DIR}/res) # st�d bierzemy pliki do konwersji
 set(DATA_DIR ${CMAKE_CURRENT_BINARY_DIR}/data) # tu maj� l�dowa�
 file(MAKE_DIRECTORY ${DATA_DIR}) #za���my data
 
-set(LMC_PLT_PATH ${DATA_DIR}/amimagePal.plt) #tak si� b�dzie nazywa� docelowa paleta
-convertPalette(amimage.elf ${RES_DIR}/amimagePal.pal ${LMC_PLT_PATH})
 
-convertBitmaps(
-	TARGET amimage.elf PALETTE ${LMC_PLT_PATH}
-	INTERLEAVED SOURCES ${RES_DIR}/LMC.png ${RES_DIR}/ACE.png
-	DESTINATIONS ${DATA_DIR}/LMC.bm ${DATA_DIR}/ACE.bm
-)
 
-set(PLT_PATH ${DATA_DIR}/amimagePal.plt) #tak si� b�dzie nazywa� docelowa paleta
-convertPalette(amimage.elf ${RES_DIR}/amimagePal.pal ${PLT_PATH}) # z res/amimage.pal do build/data/amimage.plt
+
+
+set(PLT_PATH ${DATA_DIR}/amimage.plt) #tak si� b�dzie nazywa� docelowa paleta
+convertPalette(amimage.elf ${RES_DIR}/amimage.pal ${PLT_PATH}) # z res/amimage.pal do build/data/amimage.plt
 
 convertBitmaps(
 	TARGET amimage.elf PALETTE ${PLT_PATH}
@@ -43,15 +38,9 @@ convertBitmaps(
 		${DATA_DIR}/arco32.bm 
 )
 
-convertBitmaps(
-	TARGET amimage.elf PALETTE ${PLT_PATH}
-	MASK_COLOR "#000000"
-	INTERLEAVED SOURCES ${RES_DIR}/tileset.png
-	DESTINATIONS ${DATA_DIR}/tileset.bm
-	MASKS ${DATA_DIR}/tileset_mask.bm
-)
+
 
 file(
-	COPY ${RES_DIR}/placeholdermod.mod
+	COPY ${RES_DIR}/placeholdermod.mod ${RES_DIR}/topaz.fnt
 	DESTINATION ${DATA_DIR}
 )

@@ -61,7 +61,6 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
     "src/ace/utils/font.c.obj"
     "src/ace/utils/palette.c.obj"
     "src/ace/utils/ptplayer.c.obj"
-    "src/ace/utils/string.c.obj"
     "src/ace/utils/tag.c.obj"
     "src/fixmath/fix16.c.obj"
     "src/fixmath/fix16_exp.c.obj"
@@ -112,7 +111,6 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
     "C:/Users/L3k/Amimage/ACE/include/ace/utils/mini_std.h"
     "C:/Users/L3k/Amimage/ACE/include/ace/utils/palette.h"
     "C:/Users/L3k/Amimage/ACE/include/ace/utils/ptplayer.h"
-    "C:/Users/L3k/Amimage/ACE/include/ace/utils/string.h"
     "C:/Users/L3k/Amimage/ACE/include/ace/utils/tag.h"
     )
 endif()

@@ -427,22 +427,9 @@ ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.s"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\ptplayer.c -o CMakeFiles\ace.dir\src\ace\utils\ptplayer.c.s
 
-ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj: ace/CMakeFiles/ace.dir/flags.make
-ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj: ../ACE/src/ace/utils/string.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\string.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\string.c
-
-ace/CMakeFiles/ace.dir/src/ace/utils/string.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/string.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\string.c > CMakeFiles\ace.dir\src\ace\utils\string.c.i
-
-ace/CMakeFiles/ace.dir/src/ace/utils/string.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/string.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\string.c -o CMakeFiles\ace.dir\src\ace\utils\string.c.s
-
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj: ../ACE/src/ace/utils/tag.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\tag.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\tag.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.i: cmake_force
@@ -455,7 +442,7 @@ ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj: ../ACE/src/fixmath/fix16.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.i: cmake_force
@@ -468,7 +455,7 @@ ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj: ../ACE/src/fixmath/fix16_exp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_exp.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_exp.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.i: cmake_force
@@ -481,7 +468,7 @@ ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.obj: ../ACE/src/fixmath/fix16_sqrt.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_sqrt.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_sqrt.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.i: cmake_force
@@ -494,7 +481,7 @@ ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.obj: ../ACE/src/fixmath/fix16_str.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_str.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_str.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.i: cmake_force
@@ -507,7 +494,7 @@ ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.obj: ../ACE/src/fixmath/fix16_trig.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_trig.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_trig.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.i: cmake_force
@@ -520,7 +507,7 @@ ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.obj: ../ACE/src/fixmath/fract32.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fract32.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fract32.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.i: cmake_force
@@ -533,7 +520,7 @@ ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.obj: ../ACE/src/fixmath/uint32.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\uint32.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\uint32.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.i: cmake_force
@@ -546,12 +533,12 @@ ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_a_support.s.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_a_support.s.obj: ../ACE/src/bartman/gcc8_a_support.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building ASM object ace/CMakeFiles/ace.dir/src/bartman/gcc8_a_support.s.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building ASM object ace/CMakeFiles/ace.dir/src/bartman/gcc8_a_support.s.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ace.dir\src\bartman\gcc8_a_support.s.obj -c C:\Users\L3k\Amimage\ACE\src\bartman\gcc8_a_support.s
 
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj: ../ACE/src/bartman/gcc8_c_support.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\bartman\gcc8_c_support.c.obj   -c C:\Users\L3k\Amimage\ACE\src\bartman\gcc8_c_support.c
 
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.i: cmake_force
@@ -564,7 +551,7 @@ ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.obj: ../ACE/src/mini_std/ctype.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\ctype.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\ctype.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.i: cmake_force
@@ -577,7 +564,7 @@ ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/mini_std/errno.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/errno.c.obj: ../ACE/src/mini_std/errno.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/errno.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/errno.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\errno.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\errno.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/errno.c.i: cmake_force
@@ -590,7 +577,7 @@ ace/CMakeFiles/ace.dir/src/mini_std/errno.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.obj: ../ACE/src/mini_std/intrin.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\intrin.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\intrin.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.i: cmake_force
@@ -603,7 +590,7 @@ ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/mini_std/printf.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/printf.c.obj: ../ACE/src/mini_std/printf.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/printf.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/printf.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\printf.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\printf.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/printf.c.i: cmake_force
@@ -616,7 +603,7 @@ ace/CMakeFiles/ace.dir/src/mini_std/printf.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.obj: ../ACE/src/mini_std/stdio_file.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\stdio_file.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_file.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.i: cmake_force
@@ -629,7 +616,7 @@ ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.obj: ../ACE/src/mini_std/stdio_putchar.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\stdio_putchar.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_putchar.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.i: cmake_force
@@ -642,7 +629,7 @@ ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj: ../ACE/src/mini_std/stdlib.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\stdlib.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\stdlib.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.i: cmake_force
@@ -655,7 +642,7 @@ ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/mini_std/string.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/string.c.obj: ../ACE/src/mini_std/string.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/string.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/string.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\string.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\string.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/string.c.i: cmake_force
@@ -668,7 +655,7 @@ ace/CMakeFiles/ace.dir/src/mini_std/string.c.s: cmake_force
 
 ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.obj: ../ACE/src/mini_std/strtoul.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.obj"
 	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\strtoul.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\strtoul.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.i: cmake_force
@@ -706,7 +693,6 @@ ace: ace/CMakeFiles/ace.dir/src/ace/utils/file.c.obj
 ace: ace/CMakeFiles/ace.dir/src/ace/utils/font.c.obj
 ace: ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.obj
 ace: ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj
-ace: ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj
 ace: ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj
 ace: ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj
 ace: ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj

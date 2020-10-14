@@ -4,12 +4,8 @@ file(REMOVE_RECURSE
   "amimage.elf"
   "amimage.elf.manifest"
   "amimage.elf.pdb"
-  "data/ACE.bm"
-  "data/LMC.bm"
-  "data/amimagePal.plt"
+  "data/amimage.plt"
   "data/arco32.bm"
-  "data/tileset.bm"
-  "data/tileset_mask.bm"
 )
 
 # Per-language clean rules from dependency scanning.
