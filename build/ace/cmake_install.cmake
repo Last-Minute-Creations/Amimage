@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/usr")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/usr")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -61,6 +61,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
     "src/ace/utils/font.c.obj"
     "src/ace/utils/palette.c.obj"
     "src/ace/utils/ptplayer.c.obj"
+    "src/ace/utils/string.c.obj"
     "src/ace/utils/tag.c.obj"
     "src/fixmath/fix16.c.obj"
     "src/fixmath/fix16_exp.c.obj"
@@ -111,6 +112,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
     "C:/Users/L3k/Amimage/ACE/include/ace/utils/mini_std.h"
     "C:/Users/L3k/Amimage/ACE/include/ace/utils/palette.h"
     "C:/Users/L3k/Amimage/ACE/include/ace/utils/ptplayer.h"
+    "C:/Users/L3k/Amimage/ACE/include/ace/utils/string.h"
     "C:/Users/L3k/Amimage/ACE/include/ace/utils/tag.h"
     )
 endif()

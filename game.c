@@ -217,7 +217,7 @@ void waitFrames(tVPort *pVPort, UBYTE ubHowMany, UWORD uwPosY)
 {
   for (UBYTE i = 0; i < ubHowMany; ++i)
   {
-    vPortWaitForPos(pVPort, uwPosY);
+    vPortWaitForPos(pVPort, uwPosY, 0);
   }
 }
 
@@ -2176,42 +2176,42 @@ void stateGameLoop(void)
 
   if (keyUse(KEY_1))
   {
-    blitCopy(s_pCards, 0, cardSlot[0] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY, 0xFF); // narysujmy se karte
+    blitCopy(s_pCards, 0, cardSlot[0] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY); // narysujmy se karte
     selectedCard = cardSlot[0];
     slotPlayed = 0;
     pleaseConfirm();
   }
   else if (keyUse(KEY_2))
   {
-    blitCopy(s_pCards, 0, cardSlot[1] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY, 0xFF);
+    blitCopy(s_pCards, 0, cardSlot[1] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY);
     selectedCard = cardSlot[1];
     slotPlayed = 1;
     pleaseConfirm();
   }
   else if (keyUse(KEY_3))
   {
-    blitCopy(s_pCards, 0, cardSlot[2] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY, 0xFF);
+    blitCopy(s_pCards, 0, cardSlot[2] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY);
     selectedCard = cardSlot[2];
     slotPlayed = 2;
     pleaseConfirm();
   }
   else if (keyUse(KEY_4))
   {
-    blitCopy(s_pCards, 0, cardSlot[3] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY, 0xFF);
+    blitCopy(s_pCards, 0, cardSlot[3] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY);
     selectedCard = cardSlot[3];
     slotPlayed = 3;
     pleaseConfirm();
   }
   else if (keyUse(KEY_5))
   {
-    blitCopy(s_pCards, 0, cardSlot[4] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY, 0xFF);
+    blitCopy(s_pCards, 0, cardSlot[4] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY);
     selectedCard = cardSlot[4];
     slotPlayed = 4;
     pleaseConfirm();
   }
   else if (keyUse(KEY_6))
   {
-    blitCopy(s_pCards, 0, cardSlot[5] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY, 0xFF);
+    blitCopy(s_pCards, 0, cardSlot[5] * 128, s_pVpManager->pBack, 224, 128, 95, 127, MINTERM_COPY);
     selectedCard = cardSlot[5];
     slotPlayed = 5;
     pleaseConfirm();
@@ -2646,12 +2646,12 @@ void stateGameLoop(void)
     if (musicPlay == 1)
     {
       musicPlay = 0;
-      mt_mastervol(0);
+      
     }
     else if (musicPlay == 0)
     {
       musicPlay = 1;
-      mt_mastervol(64);
+      
     }
   }
 
@@ -2665,6 +2665,7 @@ void stateGameDestroy(void)
   systemUse(); // w��cz grzecznie system
   ptplayerModDestroy(s_pMod);
   ptplayerDestroy();
+  
 
   fontDestroy(s_pFont);
   fontDestroyTextBitMap(s_pBmText);
@@ -2672,6 +2673,7 @@ void stateGameDestroy(void)
   viewDestroy(s_pView); // zwolnij z pami�ci view, wszystkie do��czone do niego viewporty i wszystkie do��czone do nich mened�ery
   joyClose();
   keyDestroy();
+  bitmapDestroy(s_pCards);
 }
 
 // pod funkcjami bo kompilator czyta od g�ry do do�u i musi najpierw napotka� funkcje by wiedzie� �e istniej�

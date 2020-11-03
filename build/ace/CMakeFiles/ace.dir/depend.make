@@ -409,6 +409,11 @@ ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj: ../ACE/include/mini_std/std
 ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj: ../ACE/include/mini_std/string.h
 ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj: ../ACE/src/ace/utils/ptplayer.c
 
+ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj: ../ACE/include/ace/types.h
+ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj: ../ACE/include/ace/utils/string.h
+ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj: ../ACE/include/mini_std/stdint.h
+ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj: ../ACE/src/ace/utils/string.c
+
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj: ../ACE/include/ace/macros.h
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj: ../ACE/include/ace/managers/log.h
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj: ../ACE/include/ace/managers/memory.h
@@ -423,6 +428,7 @@ ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj: ../ACE/include/mini_std/stdio.h
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj: ../ACE/include/mini_std/string.h
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj: ../ACE/src/ace/utils/tag.c
 
+ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj: ../ACE/include/bartman/gcc8_c_support.h
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj: ../ACE/src/bartman/gcc8_c_support.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj: ../ACE/include/fixmath/fix16.h
@@ -479,6 +485,9 @@ ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.obj: ../ACE/include/mini_std
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.obj: ../ACE/include/mini_std/stdio.h
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.obj: ../ACE/src/mini_std/stdio_putchar.c
 
+ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj: ../ACE/include/mini_std/sort_r.h
+ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj: ../ACE/include/mini_std/stdlib.h
+ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj: ../ACE/include/mini_std/string.h
 ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj: ../ACE/src/mini_std/stdlib.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/string.c.obj: ../ACE/include/mini_std/string.h

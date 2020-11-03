@@ -53,6 +53,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/L3k/Amimage/ACE/src/ace/utils/font.c" "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/font.c.obj"
   "C:/Users/L3k/Amimage/ACE/src/ace/utils/palette.c" "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.obj"
   "C:/Users/L3k/Amimage/ACE/src/ace/utils/ptplayer.c" "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj"
+  "C:/Users/L3k/Amimage/ACE/src/ace/utils/string.c" "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj"
   "C:/Users/L3k/Amimage/ACE/src/ace/utils/tag.c" "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj"
   "C:/Users/L3k/Amimage/ACE/src/bartman/gcc8_c_support.c" "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj"
   "C:/Users/L3k/Amimage/ACE/src/fixmath/fix16.c" "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj"

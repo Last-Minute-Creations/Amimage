@@ -1,4 +1,4 @@
-set(CMAKE_C_COMPILER "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-gcc.exe")
+set(CMAKE_C_COMPILER "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-gcc.exe")
 set(CMAKE_C_COMPILER_ARG1 "")
 set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_C_COMPILER_VERSION "10.1.0")
@@ -17,11 +17,11 @@ set(CMAKE_C_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-ar.exe")
-set(CMAKE_C_COMPILER_AR "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-gcc-ar.exe")
-set(CMAKE_RANLIB "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-ranlib.exe")
-set(CMAKE_C_COMPILER_RANLIB "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-gcc-ranlib.exe")
-set(CMAKE_LINKER "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-ld.exe")
+set(CMAKE_AR "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-ar.exe")
+set(CMAKE_C_COMPILER_AR "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-gcc-ar.exe")
+set(CMAKE_RANLIB "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-ranlib.exe")
+set(CMAKE_C_COMPILER_RANLIB "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-gcc-ranlib.exe")
+set(CMAKE_LINKER "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-ld.exe")
 set(CMAKE_MT "")
 set(CMAKE_COMPILER_IS_GNUCC 1)
 set(CMAKE_C_COMPILER_LOADED 1)
@@ -70,7 +70,7 @@ endif()
 
 
 
-set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/lib/gcc/m68k-amiga-elf/10.1.0/include;C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/lib/gcc/m68k-amiga-elf/10.1.0/include-fixed;C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/m68k-amiga-elf/sys-include")
+set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/lib/gcc/m68k-amiga-elf/10.1.0/include;C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/lib/gcc/m68k-amiga-elf/10.1.0/include-fixed;C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/m68k-amiga-elf/sys-include")
 set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "")
 set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")

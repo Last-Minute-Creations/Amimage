@@ -26,6 +26,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/ace.dir/src/ace/utils/font.c.obj"
   "CMakeFiles/ace.dir/src/ace/utils/palette.c.obj"
   "CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj"
+  "CMakeFiles/ace.dir/src/ace/utils/string.c.obj"
   "CMakeFiles/ace.dir/src/ace/utils/tag.c.obj"
   "CMakeFiles/ace.dir/src/bartman/gcc8_a_support.s.obj"
   "CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj"

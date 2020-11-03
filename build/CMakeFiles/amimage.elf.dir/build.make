@@ -78,51 +78,51 @@ include CMakeFiles/amimage.elf.dir/flags.make
 
 data/amimage.plt: ../res/amimage.pal
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating data/amimage.plt"
-	cd /d C:\Users\L3k\Amimage && C:\Users\L3k\Amimage\ACE\tools\bin\palette_conv C:/Users/L3k/Amimage/res/amimage.pal C:/Users/L3k/Amimage/build/data/amimage.plt
+	cd /d C:\Users\L3k\Amimage && C:\Users\L3k\Amimage\ACE\tools\bin\palette_conv.exe C:/Users/L3k/Amimage/res/amimage.pal C:/Users/L3k/Amimage/build/data/amimage.plt
 
 data/arco32.bm: data/amimage.plt
 data/arco32.bm: ../res/arco32.png
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Generating data/arco32.bm"
-	cd /d C:\Users\L3k\Amimage && C:\Users\L3k\Amimage\ACE\tools\bin\bitmap_conv C:/Users/L3k/Amimage/build/data/amimage.plt C:/Users/L3k/Amimage/res/arco32.png -o C:/Users/L3k/Amimage/build/data/arco32.bm -i
+	cd /d C:\Users\L3k\Amimage && C:\Users\L3k\Amimage\ACE\tools\bin\bitmap_conv.exe C:/Users/L3k/Amimage/build/data/amimage.plt C:/Users/L3k/Amimage/res/arco32.png -o C:/Users/L3k/Amimage/build/data/arco32.bm -i
 
 CMakeFiles/amimage.elf.dir/main.c.obj: CMakeFiles/amimage.elf.dir/flags.make
 CMakeFiles/amimage.elf.dir/main.c.obj: ../main.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/amimage.elf.dir/main.c.obj"
-	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\amimage.elf.dir\main.c.obj   -c C:\Users\L3k\Amimage\main.c
+	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\amimage.elf.dir\main.c.obj   -c C:\Users\L3k\Amimage\main.c
 
 CMakeFiles/amimage.elf.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/amimage.elf.dir/main.c.i"
-	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\main.c > CMakeFiles\amimage.elf.dir\main.c.i
+	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\main.c > CMakeFiles\amimage.elf.dir\main.c.i
 
 CMakeFiles/amimage.elf.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/amimage.elf.dir/main.c.s"
-	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\main.c -o CMakeFiles\amimage.elf.dir\main.c.s
+	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\main.c -o CMakeFiles\amimage.elf.dir\main.c.s
 
 CMakeFiles/amimage.elf.dir/game.c.obj: CMakeFiles/amimage.elf.dir/flags.make
 CMakeFiles/amimage.elf.dir/game.c.obj: ../game.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/amimage.elf.dir/game.c.obj"
-	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\amimage.elf.dir\game.c.obj   -c C:\Users\L3k\Amimage\game.c
+	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\amimage.elf.dir\game.c.obj   -c C:\Users\L3k\Amimage\game.c
 
 CMakeFiles/amimage.elf.dir/game.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/amimage.elf.dir/game.c.i"
-	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\game.c > CMakeFiles\amimage.elf.dir\game.c.i
+	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\game.c > CMakeFiles\amimage.elf.dir\game.c.i
 
 CMakeFiles/amimage.elf.dir/game.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/amimage.elf.dir/game.c.s"
-	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\game.c -o CMakeFiles\amimage.elf.dir\game.c.s
+	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\game.c -o CMakeFiles\amimage.elf.dir\game.c.s
 
 CMakeFiles/amimage.elf.dir/menu.c.obj: CMakeFiles/amimage.elf.dir/flags.make
 CMakeFiles/amimage.elf.dir/menu.c.obj: ../menu.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/amimage.elf.dir/menu.c.obj"
-	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\amimage.elf.dir\menu.c.obj   -c C:\Users\L3k\Amimage\menu.c
+	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\amimage.elf.dir\menu.c.obj   -c C:\Users\L3k\Amimage\menu.c
 
 CMakeFiles/amimage.elf.dir/menu.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/amimage.elf.dir/menu.c.i"
-	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\menu.c > CMakeFiles\amimage.elf.dir\menu.c.i
+	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\menu.c > CMakeFiles\amimage.elf.dir\menu.c.i
 
 CMakeFiles/amimage.elf.dir/menu.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/amimage.elf.dir/menu.c.s"
-	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\menu.c -o CMakeFiles\amimage.elf.dir\menu.c.s
+	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\menu.c -o CMakeFiles\amimage.elf.dir\menu.c.s
 
 # Object files for target amimage.elf
 amimage_elf_OBJECTS = \
@@ -159,6 +159,7 @@ amimage_elf_EXTERNAL_OBJECTS = \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/font.c.obj" \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.obj" \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj" \
+"C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj" \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj" \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj" \
 "C:/Users/L3k/Amimage/build/ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj" \
@@ -209,6 +210,7 @@ amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/file.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/font.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj
+amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj
 amimage.elf: ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj
@@ -232,7 +234,7 @@ amimage.elf: CMakeFiles/amimage.elf.dir/build.make
 amimage.elf: CMakeFiles/amimage.elf.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable amimage.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\amimage.elf.dir\link.txt --verbose=$(VERBOSE)
-	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\..\elf2hunk.exe amimage.elf amimage.exe
+	C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\..\elf2hunk.exe amimage.elf amimage.exe
 
 # Rule to build all files generated by this target.
 CMakeFiles/amimage.elf.dir/build: amimage.elf

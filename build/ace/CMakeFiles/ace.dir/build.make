@@ -79,592 +79,605 @@ include ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/audio.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/audio.c.obj: ../ACE/src/ace/managers/audio.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/audio.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\audio.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\audio.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\audio.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\audio.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/audio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/audio.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\audio.c > CMakeFiles\ace.dir\src\ace\managers\audio.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\audio.c > CMakeFiles\ace.dir\src\ace\managers\audio.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/audio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/audio.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\audio.c -o CMakeFiles\ace.dir\src\ace\managers\audio.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\audio.c -o CMakeFiles\ace.dir\src\ace\managers\audio.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/blit.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/blit.c.obj: ../ACE/src/ace/managers/blit.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/blit.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\blit.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\blit.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\blit.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\blit.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/blit.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/blit.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\blit.c > CMakeFiles\ace.dir\src\ace\managers\blit.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\blit.c > CMakeFiles\ace.dir\src\ace\managers\blit.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/blit.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/blit.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\blit.c -o CMakeFiles\ace.dir\src\ace\managers\blit.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\blit.c -o CMakeFiles\ace.dir\src\ace\managers\blit.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/copper.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/copper.c.obj: ../ACE/src/ace/managers/copper.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/copper.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\copper.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\copper.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\copper.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\copper.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/copper.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/copper.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\copper.c > CMakeFiles\ace.dir\src\ace\managers\copper.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\copper.c > CMakeFiles\ace.dir\src\ace\managers\copper.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/copper.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/copper.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\copper.c -o CMakeFiles\ace.dir\src\ace\managers\copper.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\copper.c -o CMakeFiles\ace.dir\src\ace\managers\copper.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/game.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/game.c.obj: ../ACE/src/ace/managers/game.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/game.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\game.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\game.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\game.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\game.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/game.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/game.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\game.c > CMakeFiles\ace.dir\src\ace\managers\game.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\game.c > CMakeFiles\ace.dir\src\ace\managers\game.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/game.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/game.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\game.c -o CMakeFiles\ace.dir\src\ace\managers\game.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\game.c -o CMakeFiles\ace.dir\src\ace\managers\game.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/joy.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/joy.c.obj: ../ACE/src/ace/managers/joy.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/joy.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\joy.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\joy.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\joy.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\joy.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/joy.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/joy.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\joy.c > CMakeFiles\ace.dir\src\ace\managers\joy.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\joy.c > CMakeFiles\ace.dir\src\ace\managers\joy.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/joy.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/joy.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\joy.c -o CMakeFiles\ace.dir\src\ace\managers\joy.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\joy.c -o CMakeFiles\ace.dir\src\ace\managers\joy.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/key.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/key.c.obj: ../ACE/src/ace/managers/key.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/key.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\key.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\key.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\key.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\key.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/key.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/key.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\key.c > CMakeFiles\ace.dir\src\ace\managers\key.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\key.c > CMakeFiles\ace.dir\src\ace\managers\key.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/key.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/key.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\key.c -o CMakeFiles\ace.dir\src\ace\managers\key.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\key.c -o CMakeFiles\ace.dir\src\ace\managers\key.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/log.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/log.c.obj: ../ACE/src/ace/managers/log.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/log.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\log.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\log.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\log.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\log.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/log.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/log.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\log.c > CMakeFiles\ace.dir\src\ace\managers\log.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\log.c > CMakeFiles\ace.dir\src\ace\managers\log.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/log.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/log.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\log.c -o CMakeFiles\ace.dir\src\ace\managers\log.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\log.c -o CMakeFiles\ace.dir\src\ace\managers\log.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/memory.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/memory.c.obj: ../ACE/src/ace/managers/memory.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/memory.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\memory.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\memory.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\memory.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\memory.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/memory.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/memory.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\memory.c > CMakeFiles\ace.dir\src\ace\managers\memory.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\memory.c > CMakeFiles\ace.dir\src\ace\managers\memory.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/memory.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/memory.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\memory.c -o CMakeFiles\ace.dir\src\ace\managers\memory.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\memory.c -o CMakeFiles\ace.dir\src\ace\managers\memory.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/mouse.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/mouse.c.obj: ../ACE/src/ace/managers/mouse.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/mouse.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\mouse.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\mouse.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\mouse.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\mouse.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/mouse.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/mouse.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\mouse.c > CMakeFiles\ace.dir\src\ace\managers\mouse.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\mouse.c > CMakeFiles\ace.dir\src\ace\managers\mouse.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/mouse.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/mouse.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\mouse.c -o CMakeFiles\ace.dir\src\ace\managers\mouse.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\mouse.c -o CMakeFiles\ace.dir\src\ace\managers\mouse.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/rand.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/rand.c.obj: ../ACE/src/ace/managers/rand.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/rand.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\rand.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\rand.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\rand.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\rand.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/rand.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/rand.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\rand.c > CMakeFiles\ace.dir\src\ace\managers\rand.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\rand.c > CMakeFiles\ace.dir\src\ace\managers\rand.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/rand.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/rand.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\rand.c -o CMakeFiles\ace.dir\src\ace\managers\rand.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\rand.c -o CMakeFiles\ace.dir\src\ace\managers\rand.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/state.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/state.c.obj: ../ACE/src/ace/managers/state.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/state.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\state.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\state.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\state.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\state.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/state.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/state.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\state.c > CMakeFiles\ace.dir\src\ace\managers\state.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\state.c > CMakeFiles\ace.dir\src\ace\managers\state.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/state.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/state.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\state.c -o CMakeFiles\ace.dir\src\ace\managers\state.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\state.c -o CMakeFiles\ace.dir\src\ace\managers\state.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/system.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/system.c.obj: ../ACE/src/ace/managers/system.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/system.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\system.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\system.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\system.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\system.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/system.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/system.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\system.c > CMakeFiles\ace.dir\src\ace\managers\system.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\system.c > CMakeFiles\ace.dir\src\ace\managers\system.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/system.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/system.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\system.c -o CMakeFiles\ace.dir\src\ace\managers\system.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\system.c -o CMakeFiles\ace.dir\src\ace\managers\system.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/timer.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/timer.c.obj: ../ACE/src/ace/managers/timer.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/timer.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\timer.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\timer.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\timer.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\timer.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/timer.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/timer.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\timer.c > CMakeFiles\ace.dir\src\ace\managers\timer.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\timer.c > CMakeFiles\ace.dir\src\ace\managers\timer.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/timer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/timer.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\timer.c -o CMakeFiles\ace.dir\src\ace\managers\timer.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\timer.c -o CMakeFiles\ace.dir\src\ace\managers\timer.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/camera.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/camera.c.obj: ../ACE/src/ace/managers/viewport/camera.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/viewport/camera.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\viewport\camera.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\camera.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\viewport\camera.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\camera.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/camera.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/viewport/camera.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\camera.c > CMakeFiles\ace.dir\src\ace\managers\viewport\camera.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\camera.c > CMakeFiles\ace.dir\src\ace\managers\viewport\camera.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/camera.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/viewport/camera.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\camera.c -o CMakeFiles\ace.dir\src\ace\managers\viewport\camera.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\camera.c -o CMakeFiles\ace.dir\src\ace\managers\viewport\camera.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/scrollbuffer.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/scrollbuffer.c.obj: ../ACE/src/ace/managers/viewport/scrollbuffer.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/viewport/scrollbuffer.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\viewport\scrollbuffer.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\scrollbuffer.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\viewport\scrollbuffer.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\scrollbuffer.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/scrollbuffer.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/viewport/scrollbuffer.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\scrollbuffer.c > CMakeFiles\ace.dir\src\ace\managers\viewport\scrollbuffer.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\scrollbuffer.c > CMakeFiles\ace.dir\src\ace\managers\viewport\scrollbuffer.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/scrollbuffer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/viewport/scrollbuffer.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\scrollbuffer.c -o CMakeFiles\ace.dir\src\ace\managers\viewport\scrollbuffer.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\scrollbuffer.c -o CMakeFiles\ace.dir\src\ace\managers\viewport\scrollbuffer.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/simplebuffer.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/simplebuffer.c.obj: ../ACE/src/ace/managers/viewport/simplebuffer.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/viewport/simplebuffer.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\viewport\simplebuffer.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\simplebuffer.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\viewport\simplebuffer.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\simplebuffer.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/simplebuffer.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/viewport/simplebuffer.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\simplebuffer.c > CMakeFiles\ace.dir\src\ace\managers\viewport\simplebuffer.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\simplebuffer.c > CMakeFiles\ace.dir\src\ace\managers\viewport\simplebuffer.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/simplebuffer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/viewport/simplebuffer.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\simplebuffer.c -o CMakeFiles\ace.dir\src\ace\managers\viewport\simplebuffer.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\simplebuffer.c -o CMakeFiles\ace.dir\src\ace\managers\viewport\simplebuffer.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/tilebuffer.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/tilebuffer.c.obj: ../ACE/src/ace/managers/viewport/tilebuffer.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object ace/CMakeFiles/ace.dir/src/ace/managers/viewport/tilebuffer.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\viewport\tilebuffer.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\tilebuffer.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\managers\viewport\tilebuffer.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\tilebuffer.c
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/tilebuffer.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/managers/viewport/tilebuffer.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\tilebuffer.c > CMakeFiles\ace.dir\src\ace\managers\viewport\tilebuffer.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\tilebuffer.c > CMakeFiles\ace.dir\src\ace\managers\viewport\tilebuffer.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/managers/viewport/tilebuffer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/managers/viewport/tilebuffer.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\tilebuffer.c -o CMakeFiles\ace.dir\src\ace\managers\viewport\tilebuffer.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\managers\viewport\tilebuffer.c -o CMakeFiles\ace.dir\src\ace\managers\viewport\tilebuffer.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/utils/bitmap.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/bitmap.c.obj: ../ACE/src/ace/utils/bitmap.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/bitmap.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\bitmap.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\bitmap.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\bitmap.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\bitmap.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/bitmap.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/bitmap.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\bitmap.c > CMakeFiles\ace.dir\src\ace\utils\bitmap.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\bitmap.c > CMakeFiles\ace.dir\src\ace\utils\bitmap.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/utils/bitmap.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/bitmap.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\bitmap.c -o CMakeFiles\ace.dir\src\ace\utils\bitmap.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\bitmap.c -o CMakeFiles\ace.dir\src\ace\utils\bitmap.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/utils/bmframe.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/bmframe.c.obj: ../ACE/src/ace/utils/bmframe.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/bmframe.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\bmframe.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\bmframe.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\bmframe.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\bmframe.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/bmframe.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/bmframe.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\bmframe.c > CMakeFiles\ace.dir\src\ace\utils\bmframe.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\bmframe.c > CMakeFiles\ace.dir\src\ace\utils\bmframe.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/utils/bmframe.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/bmframe.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\bmframe.c -o CMakeFiles\ace.dir\src\ace\utils\bmframe.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\bmframe.c -o CMakeFiles\ace.dir\src\ace\utils\bmframe.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/utils/chunky.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/chunky.c.obj: ../ACE/src/ace/utils/chunky.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/chunky.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\chunky.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\chunky.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\chunky.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\chunky.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/chunky.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/chunky.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\chunky.c > CMakeFiles\ace.dir\src\ace\utils\chunky.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\chunky.c > CMakeFiles\ace.dir\src\ace\utils\chunky.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/utils/chunky.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/chunky.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\chunky.c -o CMakeFiles\ace.dir\src\ace\utils\chunky.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\chunky.c -o CMakeFiles\ace.dir\src\ace\utils\chunky.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/utils/custom.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/custom.c.obj: ../ACE/src/ace/utils/custom.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/custom.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\custom.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\custom.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\custom.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\custom.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/custom.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/custom.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\custom.c > CMakeFiles\ace.dir\src\ace\utils\custom.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\custom.c > CMakeFiles\ace.dir\src\ace\utils\custom.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/utils/custom.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/custom.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\custom.c -o CMakeFiles\ace.dir\src\ace\utils\custom.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\custom.c -o CMakeFiles\ace.dir\src\ace\utils\custom.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/utils/dir.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/dir.c.obj: ../ACE/src/ace/utils/dir.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/dir.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\dir.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\dir.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\dir.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\dir.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/dir.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/dir.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\dir.c > CMakeFiles\ace.dir\src\ace\utils\dir.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\dir.c > CMakeFiles\ace.dir\src\ace\utils\dir.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/utils/dir.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/dir.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\dir.c -o CMakeFiles\ace.dir\src\ace\utils\dir.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\dir.c -o CMakeFiles\ace.dir\src\ace\utils\dir.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/utils/extview.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/extview.c.obj: ../ACE/src/ace/utils/extview.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/extview.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\extview.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\extview.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\extview.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\extview.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/extview.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/extview.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\extview.c > CMakeFiles\ace.dir\src\ace\utils\extview.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\extview.c > CMakeFiles\ace.dir\src\ace\utils\extview.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/utils/extview.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/extview.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\extview.c -o CMakeFiles\ace.dir\src\ace\utils\extview.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\extview.c -o CMakeFiles\ace.dir\src\ace\utils\extview.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/utils/file.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/file.c.obj: ../ACE/src/ace/utils/file.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/file.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\file.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\file.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\file.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\file.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/file.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/file.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\file.c > CMakeFiles\ace.dir\src\ace\utils\file.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\file.c > CMakeFiles\ace.dir\src\ace\utils\file.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/utils/file.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/file.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\file.c -o CMakeFiles\ace.dir\src\ace\utils\file.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\file.c -o CMakeFiles\ace.dir\src\ace\utils\file.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/utils/font.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/font.c.obj: ../ACE/src/ace/utils/font.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/font.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\font.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\font.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\font.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\font.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/font.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/font.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\font.c > CMakeFiles\ace.dir\src\ace\utils\font.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\font.c > CMakeFiles\ace.dir\src\ace\utils\font.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/utils/font.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/font.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\font.c -o CMakeFiles\ace.dir\src\ace\utils\font.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\font.c -o CMakeFiles\ace.dir\src\ace\utils\font.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.obj: ../ACE/src/ace/utils/palette.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\palette.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\palette.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\palette.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\palette.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/palette.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\palette.c > CMakeFiles\ace.dir\src\ace\utils\palette.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\palette.c > CMakeFiles\ace.dir\src\ace\utils\palette.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/palette.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\palette.c -o CMakeFiles\ace.dir\src\ace\utils\palette.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\palette.c -o CMakeFiles\ace.dir\src\ace\utils\palette.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj: ../ACE/src/ace/utils/ptplayer.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\ptplayer.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\ptplayer.c
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\ptplayer.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\ptplayer.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\ptplayer.c > CMakeFiles\ace.dir\src\ace\utils\ptplayer.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\ptplayer.c > CMakeFiles\ace.dir\src\ace\utils\ptplayer.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\ptplayer.c -o CMakeFiles\ace.dir\src\ace\utils\ptplayer.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\ptplayer.c -o CMakeFiles\ace.dir\src\ace\utils\ptplayer.c.s
+
+ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj: ace/CMakeFiles/ace.dir/flags.make
+ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj: ../ACE/src/ace/utils/string.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\string.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\string.c
+
+ace/CMakeFiles/ace.dir/src/ace/utils/string.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/string.c.i"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\string.c > CMakeFiles\ace.dir\src\ace\utils\string.c.i
+
+ace/CMakeFiles/ace.dir/src/ace/utils/string.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/string.c.s"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\string.c -o CMakeFiles\ace.dir\src\ace\utils\string.c.s
 
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj: ../ACE/src/ace/utils/tag.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\tag.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\tag.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\ace\utils\tag.c.obj   -c C:\Users\L3k\Amimage\ACE\src\ace\utils\tag.c
 
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/ace/utils/tag.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\tag.c > CMakeFiles\ace.dir\src\ace\utils\tag.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\ace\utils\tag.c > CMakeFiles\ace.dir\src\ace\utils\tag.c.i
 
 ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/ace/utils/tag.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\tag.c -o CMakeFiles\ace.dir\src\ace\utils\tag.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\ace\utils\tag.c -o CMakeFiles\ace.dir\src\ace\utils\tag.c.s
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj: ../ACE/src/fixmath/fix16.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/fixmath/fix16.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fix16.c > CMakeFiles\ace.dir\src\fixmath\fix16.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fix16.c > CMakeFiles\ace.dir\src\fixmath\fix16.c.i
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/fixmath/fix16.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fix16.c -o CMakeFiles\ace.dir\src\fixmath\fix16.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fix16.c -o CMakeFiles\ace.dir\src\fixmath\fix16.c.s
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj: ../ACE/src/fixmath/fix16_exp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_exp.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_exp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_exp.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_exp.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_exp.c > CMakeFiles\ace.dir\src\fixmath\fix16_exp.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_exp.c > CMakeFiles\ace.dir\src\fixmath\fix16_exp.c.i
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_exp.c -o CMakeFiles\ace.dir\src\fixmath\fix16_exp.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_exp.c -o CMakeFiles\ace.dir\src\fixmath\fix16_exp.c.s
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.obj: ../ACE/src/fixmath/fix16_sqrt.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_sqrt.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_sqrt.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_sqrt.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_sqrt.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_sqrt.c > CMakeFiles\ace.dir\src\fixmath\fix16_sqrt.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_sqrt.c > CMakeFiles\ace.dir\src\fixmath\fix16_sqrt.c.i
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/fixmath/fix16_sqrt.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_sqrt.c -o CMakeFiles\ace.dir\src\fixmath\fix16_sqrt.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_sqrt.c -o CMakeFiles\ace.dir\src\fixmath\fix16_sqrt.c.s
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.obj: ../ACE/src/fixmath/fix16_str.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_str.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_str.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_str.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_str.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/fixmath/fix16_str.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_str.c > CMakeFiles\ace.dir\src\fixmath\fix16_str.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_str.c > CMakeFiles\ace.dir\src\fixmath\fix16_str.c.i
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_str.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/fixmath/fix16_str.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_str.c -o CMakeFiles\ace.dir\src\fixmath\fix16_str.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_str.c -o CMakeFiles\ace.dir\src\fixmath\fix16_str.c.s
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.obj: ../ACE/src/fixmath/fix16_trig.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_trig.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_trig.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fix16_trig.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_trig.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_trig.c > CMakeFiles\ace.dir\src\fixmath\fix16_trig.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_trig.c > CMakeFiles\ace.dir\src\fixmath\fix16_trig.c.i
 
 ace/CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/fixmath/fix16_trig.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_trig.c -o CMakeFiles\ace.dir\src\fixmath\fix16_trig.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fix16_trig.c -o CMakeFiles\ace.dir\src\fixmath\fix16_trig.c.s
 
 ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.obj: ../ACE/src/fixmath/fract32.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fract32.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fract32.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\fract32.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\fract32.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/fixmath/fract32.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fract32.c > CMakeFiles\ace.dir\src\fixmath\fract32.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\fract32.c > CMakeFiles\ace.dir\src\fixmath\fract32.c.i
 
 ace/CMakeFiles/ace.dir/src/fixmath/fract32.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/fixmath/fract32.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fract32.c -o CMakeFiles\ace.dir\src\fixmath\fract32.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\fract32.c -o CMakeFiles\ace.dir\src\fixmath\fract32.c.s
 
 ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.obj: ../ACE/src/fixmath/uint32.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\uint32.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\uint32.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\fixmath\uint32.c.obj   -c C:\Users\L3k\Amimage\ACE\src\fixmath\uint32.c
 
 ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/fixmath/uint32.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\uint32.c > CMakeFiles\ace.dir\src\fixmath\uint32.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\fixmath\uint32.c > CMakeFiles\ace.dir\src\fixmath\uint32.c.i
 
 ace/CMakeFiles/ace.dir/src/fixmath/uint32.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/fixmath/uint32.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\uint32.c -o CMakeFiles\ace.dir\src\fixmath\uint32.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\fixmath\uint32.c -o CMakeFiles\ace.dir\src\fixmath\uint32.c.s
 
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_a_support.s.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_a_support.s.obj: ../ACE/src/bartman/gcc8_a_support.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building ASM object ace/CMakeFiles/ace.dir/src/bartman/gcc8_a_support.s.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ace.dir\src\bartman\gcc8_a_support.s.obj -c C:\Users\L3k\Amimage\ACE\src\bartman\gcc8_a_support.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building ASM object ace/CMakeFiles/ace.dir/src/bartman/gcc8_a_support.s.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ace.dir\src\bartman\gcc8_a_support.s.obj -c C:\Users\L3k\Amimage\ACE\src\bartman\gcc8_a_support.s
 
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj: ../ACE/src/bartman/gcc8_c_support.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\bartman\gcc8_c_support.c.obj   -c C:\Users\L3k\Amimage\ACE\src\bartman\gcc8_c_support.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\bartman\gcc8_c_support.c.obj   -c C:\Users\L3k\Amimage\ACE\src\bartman\gcc8_c_support.c
 
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\bartman\gcc8_c_support.c > CMakeFiles\ace.dir\src\bartman\gcc8_c_support.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\bartman\gcc8_c_support.c > CMakeFiles\ace.dir\src\bartman\gcc8_c_support.c.i
 
 ace/CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/bartman/gcc8_c_support.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\bartman\gcc8_c_support.c -o CMakeFiles\ace.dir\src\bartman\gcc8_c_support.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\bartman\gcc8_c_support.c -o CMakeFiles\ace.dir\src\bartman\gcc8_c_support.c.s
 
 ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.obj: ../ACE/src/mini_std/ctype.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\ctype.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\ctype.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\ctype.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\ctype.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/mini_std/ctype.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\ctype.c > CMakeFiles\ace.dir\src\mini_std\ctype.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\ctype.c > CMakeFiles\ace.dir\src\mini_std\ctype.c.i
 
 ace/CMakeFiles/ace.dir/src/mini_std/ctype.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/mini_std/ctype.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\ctype.c -o CMakeFiles\ace.dir\src\mini_std\ctype.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\ctype.c -o CMakeFiles\ace.dir\src\mini_std\ctype.c.s
 
 ace/CMakeFiles/ace.dir/src/mini_std/errno.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/errno.c.obj: ../ACE/src/mini_std/errno.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/errno.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\errno.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\errno.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/errno.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\errno.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\errno.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/errno.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/mini_std/errno.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\errno.c > CMakeFiles\ace.dir\src\mini_std\errno.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\errno.c > CMakeFiles\ace.dir\src\mini_std\errno.c.i
 
 ace/CMakeFiles/ace.dir/src/mini_std/errno.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/mini_std/errno.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\errno.c -o CMakeFiles\ace.dir\src\mini_std\errno.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\errno.c -o CMakeFiles\ace.dir\src\mini_std\errno.c.s
 
 ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.obj: ../ACE/src/mini_std/intrin.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\intrin.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\intrin.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\intrin.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\intrin.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/mini_std/intrin.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\intrin.c > CMakeFiles\ace.dir\src\mini_std\intrin.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\intrin.c > CMakeFiles\ace.dir\src\mini_std\intrin.c.i
 
 ace/CMakeFiles/ace.dir/src/mini_std/intrin.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/mini_std/intrin.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\intrin.c -o CMakeFiles\ace.dir\src\mini_std\intrin.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\intrin.c -o CMakeFiles\ace.dir\src\mini_std\intrin.c.s
 
 ace/CMakeFiles/ace.dir/src/mini_std/printf.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/printf.c.obj: ../ACE/src/mini_std/printf.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/printf.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\printf.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\printf.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/printf.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\printf.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\printf.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/printf.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/mini_std/printf.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\printf.c > CMakeFiles\ace.dir\src\mini_std\printf.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\printf.c > CMakeFiles\ace.dir\src\mini_std\printf.c.i
 
 ace/CMakeFiles/ace.dir/src/mini_std/printf.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/mini_std/printf.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\printf.c -o CMakeFiles\ace.dir\src\mini_std\printf.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\printf.c -o CMakeFiles\ace.dir\src\mini_std\printf.c.s
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.obj: ../ACE/src/mini_std/stdio_file.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\stdio_file.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_file.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\stdio_file.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_file.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/mini_std/stdio_file.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_file.c > CMakeFiles\ace.dir\src\mini_std\stdio_file.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_file.c > CMakeFiles\ace.dir\src\mini_std\stdio_file.c.i
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_file.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/mini_std/stdio_file.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_file.c -o CMakeFiles\ace.dir\src\mini_std\stdio_file.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_file.c -o CMakeFiles\ace.dir\src\mini_std\stdio_file.c.s
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.obj: ../ACE/src/mini_std/stdio_putchar.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\stdio_putchar.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_putchar.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\stdio_putchar.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_putchar.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_putchar.c > CMakeFiles\ace.dir\src\mini_std\stdio_putchar.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_putchar.c > CMakeFiles\ace.dir\src\mini_std\stdio_putchar.c.i
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/mini_std/stdio_putchar.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_putchar.c -o CMakeFiles\ace.dir\src\mini_std\stdio_putchar.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\stdio_putchar.c -o CMakeFiles\ace.dir\src\mini_std\stdio_putchar.c.s
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj: ../ACE/src/mini_std/stdlib.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\stdlib.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\stdlib.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\stdlib.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\stdlib.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/mini_std/stdlib.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\stdlib.c > CMakeFiles\ace.dir\src\mini_std\stdlib.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\stdlib.c > CMakeFiles\ace.dir\src\mini_std\stdlib.c.i
 
 ace/CMakeFiles/ace.dir/src/mini_std/stdlib.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/mini_std/stdlib.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\stdlib.c -o CMakeFiles\ace.dir\src\mini_std\stdlib.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\stdlib.c -o CMakeFiles\ace.dir\src\mini_std\stdlib.c.s
 
 ace/CMakeFiles/ace.dir/src/mini_std/string.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/string.c.obj: ../ACE/src/mini_std/string.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/string.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\string.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\string.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/string.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\string.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\string.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/string.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/mini_std/string.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\string.c > CMakeFiles\ace.dir\src\mini_std\string.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\string.c > CMakeFiles\ace.dir\src\mini_std\string.c.i
 
 ace/CMakeFiles/ace.dir/src/mini_std/string.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/mini_std/string.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\string.c -o CMakeFiles\ace.dir\src\mini_std\string.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\string.c -o CMakeFiles\ace.dir\src\mini_std\string.c.s
 
 ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.obj: ace/CMakeFiles/ace.dir/flags.make
 ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.obj: ../ACE/src/mini_std/strtoul.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.obj"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\strtoul.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\strtoul.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\L3k\Amimage\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.obj"
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ace.dir\src\mini_std\strtoul.c.obj   -c C:\Users\L3k\Amimage\ACE\src\mini_std\strtoul.c
 
 ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ace.dir/src/mini_std/strtoul.c.i"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\strtoul.c > CMakeFiles\ace.dir\src\mini_std\strtoul.c.i
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\L3k\Amimage\ACE\src\mini_std\strtoul.c > CMakeFiles\ace.dir\src\mini_std\strtoul.c.i
 
 ace/CMakeFiles/ace.dir/src/mini_std/strtoul.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ace.dir/src/mini_std/strtoul.c.s"
-	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview11\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\strtoul.c -o CMakeFiles\ace.dir\src\mini_std\strtoul.c.s
+	cd /d C:\Users\L3k\Amimage\build\ace && C:\Users\L3k\.vscode\extensions\bartmanabyss.amiga-debug-1.1.0-preview33\bin\opt\bin\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\L3k\Amimage\ACE\src\mini_std\strtoul.c -o CMakeFiles\ace.dir\src\mini_std\strtoul.c.s
 
 ace: ace/CMakeFiles/ace.dir/src/ace/managers/audio.c.obj
 ace: ace/CMakeFiles/ace.dir/src/ace/managers/blit.c.obj
@@ -693,6 +706,7 @@ ace: ace/CMakeFiles/ace.dir/src/ace/utils/file.c.obj
 ace: ace/CMakeFiles/ace.dir/src/ace/utils/font.c.obj
 ace: ace/CMakeFiles/ace.dir/src/ace/utils/palette.c.obj
 ace: ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.obj
+ace: ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj
 ace: ace/CMakeFiles/ace.dir/src/ace/utils/tag.c.obj
 ace: ace/CMakeFiles/ace.dir/src/fixmath/fix16.c.obj
 ace: ace/CMakeFiles/ace.dir/src/fixmath/fix16_exp.c.obj

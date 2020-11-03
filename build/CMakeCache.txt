@@ -21,18 +21,18 @@ ACE_BINARY_DIR:STATIC=C:/Users/L3k/Amimage/build/ace
 ACE_SOURCE_DIR:STATIC=C:/Users/L3k/Amimage/ACE
 
 //Path to a program.
-CMAKE_ADDR2LINE:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-addr2line.exe
+CMAKE_ADDR2LINE:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-addr2line.exe
 
 //Path to a program.
-CMAKE_AR:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-ar.exe
+CMAKE_AR:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-ar.exe
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
-CMAKE_ASM_COMPILER_AR:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-gcc-ar.exe
+CMAKE_ASM_COMPILER_AR:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-gcc-ar.exe
 
 //A wrapper around 'ranlib' adding the appropriate '--plugin' option
 // for the GCC compiler
-CMAKE_ASM_COMPILER_RANLIB:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-gcc-ranlib.exe
+CMAKE_ASM_COMPILER_RANLIB:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-gcc-ranlib.exe
 
 //Flags used by the ASM compiler during all build types.
 CMAKE_ASM_FLAGS:STRING=
@@ -56,18 +56,18 @@ CMAKE_BUILD_TYPE:STRING=Debug
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
 //No help, variable specified on the command line.
-CMAKE_CXX_COMPILER:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-g++.exe
+CMAKE_CXX_COMPILER:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-g++.exe
 
 //No help, variable specified on the command line.
-CMAKE_C_COMPILER:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-gcc.exe
+CMAKE_C_COMPILER:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-gcc.exe
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
-CMAKE_C_COMPILER_AR:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-gcc-ar.exe
+CMAKE_C_COMPILER_AR:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-gcc-ar.exe
 
 //A wrapper around 'ranlib' adding the appropriate '--plugin' option
 // for the GCC compiler
-CMAKE_C_COMPILER_RANLIB:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-gcc-ranlib.exe
+CMAKE_C_COMPILER_RANLIB:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-gcc-ranlib.exe
 
 //Flags used by the C compiler during all build types.
 CMAKE_C_FLAGS:STRING=
@@ -142,7 +142,7 @@ CMAKE_INSTALL_MANDIR:PATH=
 CMAKE_INSTALL_OLDINCLUDEDIR:PATH=/usr/include
 
 //Use PREFIX path
-CMAKE_INSTALL_PREFIX:PATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/usr
+CMAKE_INSTALL_PREFIX:PATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/usr
 
 //Run-time variable data (LOCALSTATEDIR/run)
 CMAKE_INSTALL_RUNSTATEDIR:PATH=
@@ -157,7 +157,7 @@ CMAKE_INSTALL_SHAREDSTATEDIR:PATH=com
 CMAKE_INSTALL_SYSCONFDIR:PATH=etc
 
 //Path to a program.
-CMAKE_LINKER:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-ld.exe
+CMAKE_LINKER:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-ld.exe
 
 //Path to a program.
 CMAKE_MAKE_PROGRAM:FILEPATH=C:/MinGW/bin/mingw32-make.exe
@@ -183,13 +183,13 @@ CMAKE_MODULE_LINKER_FLAGS_RELEASE:STRING=
 CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 
 //Path to a program.
-CMAKE_NM:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-nm.exe
+CMAKE_NM:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-nm.exe
 
 //Path to a program.
-CMAKE_OBJCOPY:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-objcopy.exe
+CMAKE_OBJCOPY:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-objcopy.exe
 
 //Path to a program.
-CMAKE_OBJDUMP:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-objdump.exe
+CMAKE_OBJDUMP:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-objdump.exe
 
 //Value Computed by CMake
 CMAKE_PROJECT_DESCRIPTION:STATIC=
@@ -201,10 +201,10 @@ CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 CMAKE_PROJECT_NAME:STATIC=amimage
 
 //Path to a program.
-CMAKE_RANLIB:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-ranlib.exe
+CMAKE_RANLIB:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-ranlib.exe
 
 //Path to a program.
-CMAKE_READELF:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-readelf.exe
+CMAKE_READELF:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-readelf.exe
 
 //Flags used by the linker during the creation of shared libraries
 // during all build types.
@@ -254,7 +254,7 @@ CMAKE_STATIC_LINKER_FLAGS_RELEASE:STRING=
 CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 
 //Path to a program.
-CMAKE_STRIP:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/bin/m68k-amiga-elf-strip.exe
+CMAKE_STRIP:FILEPATH=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/bin/m68k-amiga-elf-strip.exe
 
 //No help, variable specified on the command line.
 CMAKE_TOOLCHAIN_FILE:FILEPATH=C:/Users/L3k/GitHubFalcon/GIT/AmigaCMakeCrossToolchains/m68k-bartman.cmake
@@ -281,7 +281,7 @@ TOOLCHAIN_CXXFLAGS:STRING=
 TOOLCHAIN_LDFLAGS:STRING=
 
 //No help, variable specified on the command line.
-TOOLCHAIN_PATH:STRING=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt
+TOOLCHAIN_PATH:STRING=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt
 
 //No help, variable specified on the command line.
 TOOLCHAIN_PREFIX:STRING=m68k-amiga-elf
@@ -470,5 +470,5 @@ CMAKE_VERBOSE_MAKEFILE-ADVANCED:INTERNAL=1
 //STRINGS property for variable: M68K_CPU
 M68K_CPU-STRINGS:INTERNAL=68000;68010;68020;68040;68060;68080
 //CMAKE_INSTALL_PREFIX during last run
-_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt/usr
+_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview33/bin/opt/usr
 

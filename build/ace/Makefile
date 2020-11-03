@@ -919,6 +919,33 @@ src/ace/utils/ptplayer.c.s:
 	cd /d C:\Users\L3k\Amimage\build && $(MAKE) $(MAKESILENT) -f ace\CMakeFiles\ace.dir\build.make ace/CMakeFiles/ace.dir/src/ace/utils/ptplayer.c.s
 .PHONY : src/ace/utils/ptplayer.c.s
 
+src/ace/utils/string.obj: src/ace/utils/string.c.obj
+
+.PHONY : src/ace/utils/string.obj
+
+# target to build an object file
+src/ace/utils/string.c.obj:
+	cd /d C:\Users\L3k\Amimage\build && $(MAKE) $(MAKESILENT) -f ace\CMakeFiles\ace.dir\build.make ace/CMakeFiles/ace.dir/src/ace/utils/string.c.obj
+.PHONY : src/ace/utils/string.c.obj
+
+src/ace/utils/string.i: src/ace/utils/string.c.i
+
+.PHONY : src/ace/utils/string.i
+
+# target to preprocess a source file
+src/ace/utils/string.c.i:
+	cd /d C:\Users\L3k\Amimage\build && $(MAKE) $(MAKESILENT) -f ace\CMakeFiles\ace.dir\build.make ace/CMakeFiles/ace.dir/src/ace/utils/string.c.i
+.PHONY : src/ace/utils/string.c.i
+
+src/ace/utils/string.s: src/ace/utils/string.c.s
+
+.PHONY : src/ace/utils/string.s
+
+# target to generate assembly for a file
+src/ace/utils/string.c.s:
+	cd /d C:\Users\L3k\Amimage\build && $(MAKE) $(MAKESILENT) -f ace\CMakeFiles\ace.dir\build.make ace/CMakeFiles/ace.dir/src/ace/utils/string.c.s
+.PHONY : src/ace/utils/string.c.s
+
 src/ace/utils/tag.obj: src/ace/utils/tag.c.obj
 
 .PHONY : src/ace/utils/tag.obj
@@ -1508,6 +1535,9 @@ help:
 	@echo ... src/ace/utils/ptplayer.obj
 	@echo ... src/ace/utils/ptplayer.i
 	@echo ... src/ace/utils/ptplayer.s
+	@echo ... src/ace/utils/string.obj
+	@echo ... src/ace/utils/string.i
+	@echo ... src/ace/utils/string.s
 	@echo ... src/ace/utils/tag.obj
 	@echo ... src/ace/utils/tag.i
 	@echo ... src/ace/utils/tag.s
