@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/L3k/Amimage/game.c" "C:/Users/L3k/Amimage/build/CMakeFiles/amimage.elf.dir/game.c.obj"
   "C:/Users/L3k/Amimage/main.c" "C:/Users/L3k/Amimage/build/CMakeFiles/amimage.elf.dir/main.c.obj"
+  "C:/Users/L3k/Amimage/menu.c" "C:/Users/L3k/Amimage/build/CMakeFiles/amimage.elf.dir/menu.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

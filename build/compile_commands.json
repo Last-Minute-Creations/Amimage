@@ -10,6 +10,11 @@
   "file": "C:/Users/L3k/Amimage/game.c"
 },
 {
+  "directory": "C:/Users/L3k/Amimage/build",
+  "command": "C:\\Users\\L3k\\.vscode\\extensions\\bartmanabyss.amiga-debug-1.1.0-preview11\\bin\\opt\\bin\\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt -DACE_DEBUG -DACE_DEBUG_UAE -DAMIGA -DBARTMAN_GCC -IC:\\Users\\L3k\\Amimage\\ACE\\include\\bartman -IC:\\Users\\L3k\\Amimage\\ACE\\include\\mini_std -IC:\\Users\\L3k\\Amimage\\ACE\\include    -m68000 -fomit-frame-pointer -nostdlib -Wno-unused-function -Wno-volatile-register-var -fno-tree-loop-distribution -flto -fwhole-program -Wno-old-style-declaration  -g   -Wall -Wextra -fomit-frame-pointer -o CMakeFiles\\amimage.elf.dir\\menu.c.obj   -c C:\\Users\\L3k\\Amimage\\menu.c",
+  "file": "C:/Users/L3k/Amimage/menu.c"
+},
+{
   "directory": "C:/Users/L3k/Amimage/build/ace",
   "command": "C:\\Users\\L3k\\.vscode\\extensions\\bartmanabyss.amiga-debug-1.1.0-preview11\\bin\\opt\\bin\\m68k-amiga-elf-gcc.exe --sysroot=C:/Users/L3k/.vscode/extensions/bartmanabyss.amiga-debug-1.1.0-preview11/bin/opt -DACE_DEBUG -DACE_DEBUG_UAE -DAMIGA -DBARTMAN_GCC -DPRINTF_DISABLE_SUPPORT_FLOAT -DPRINTF_DISABLE_SUPPORT_LONG_LONG -IC:\\Users\\L3k\\Amimage\\ACE\\include\\bartman -IC:\\Users\\L3k\\Amimage\\ACE\\include\\mini_std -IC:\\Users\\L3k\\Amimage\\ACE\\include    -m68000 -fomit-frame-pointer -nostdlib -Wno-unused-function -Wno-volatile-register-var -fno-tree-loop-distribution -flto -fwhole-program -Wno-old-style-declaration  -g   -Wall -Wextra -fomit-frame-pointer -o CMakeFiles\\ace.dir\\src\\ace\\managers\\audio.c.obj   -c C:\\Users\\L3k\\Amimage\\ACE\\src\\ace\\managers\\audio.c",
   "file": "C:/Users/L3k/Amimage/ACE/src/ace/managers/audio.c"

@@ -5,7 +5,7 @@ project(amimage LANGUAGES C)
 add_subdirectory(ACE ace)
 
 add_executable(
-	amimage.elf main.c game.c 
+	amimage.elf main.c game.c menu.c 
 	
 ) # Compiler emits .elf file, we need hunk for Amiga
 

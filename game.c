@@ -25,6 +25,7 @@ static tFont *s_pFont;
 static tTextBitMap *s_pBmText;
 
 extern tStateManager *g_pStateMachineGame;
+extern tState g_sStateMenu;
 
 #define Y_STARTING_POINT 100
 #define NUMBER_OF_CARDS_IN_DECK 102
@@ -206,7 +207,7 @@ UBYTE slotPlayed;
 UBYTE selectedCard = 200;
 
 // each card can be drawn once, so gonna set to 1 those that was drawn to avoid repetitions
-UBYTE ArrayOfCards[NUMBER_OF_CARDS_IN_DECK];
+extern ArrayOfCards[NUMBER_OF_CARDS_IN_DECK];
 UBYTE CardSequenceCount = 0;
 
 // misc
@@ -2014,20 +2015,7 @@ void pegasusLancer(void){
 }
 
 
-void deckShuffle(void)
-{
-  for (UBYTE i = 0; i < NUMBER_OF_CARDS_IN_DECK; ++i)
-  {
-    ArrayOfCards[i] = i;
-  }
-  for (UBYTE i = 0; i < NUMBER_OF_CARDS_IN_DECK - 1; ++i)
-  {
-    size_t j = i + uwRandMinMax(0, NUMBER_OF_CARDS_IN_DECK) / (NUMBER_OF_CARDS_IN_DECK / (NUMBER_OF_CARDS_IN_DECK - i) + 1);
-    int t = ArrayOfCards[j];
-    ArrayOfCards[j] = ArrayOfCards[i];
-    ArrayOfCards[i] = t;
-  }
-}
+
 
 void ScreenSetup(void)
 {
@@ -2166,12 +2154,11 @@ void stateGameCreate(void)
   keyCreate();
   // na koniec create:
 
-  randInit(1367);
+  
 
   ScreenSetup();
   PrintPlayerResources();
   PrintOpponentResources();
-  deckShuffle();
   DrawStartingHand();
 
   viewProcessManagers(s_pView);
@@ -2650,7 +2637,7 @@ void stateGameLoop(void)
   {
     ptplayerStop();
 
-    // stateChange(g_pStateMachineGame, &g_sStateMenu);
+    stateChange(g_pStateMachineGame, &g_sStateMenu);
     return;
   }
 

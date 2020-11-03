@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/amimage.elf.dir/game.c.obj"
   "CMakeFiles/amimage.elf.dir/main.c.obj"
+  "CMakeFiles/amimage.elf.dir/menu.c.obj"
   "amimage.elf"
   "amimage.elf.manifest"
   "amimage.elf.pdb"

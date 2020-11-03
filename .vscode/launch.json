@@ -14,7 +14,7 @@
                     "type": "amiga",
                     "request": "launch",
                     "name": "Amiga 1200",
-                    "config": "A1200",
+                    "config": "A1200-FAST",
                     "program": "${workspaceFolder}/build/amimage",
                     "kickstart": "C:/AMIGA/ADF/Kickstarty i Workbenche/kickstarts/kick31.rom",
                     "internalConsoleOptions": "openOnSessionStart"

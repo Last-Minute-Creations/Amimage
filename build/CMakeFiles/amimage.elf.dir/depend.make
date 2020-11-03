@@ -51,3 +51,31 @@ CMakeFiles/amimage.elf.dir/main.c.obj: ../ACE/include/mini_std/stdlib.h
 CMakeFiles/amimage.elf.dir/main.c.obj: ../ACE/include/mini_std/string.h
 CMakeFiles/amimage.elf.dir/main.c.obj: ../main.c
 
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/macros.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/blit.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/copper.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/game.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/joy.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/key.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/log.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/memory.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/rand.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/state.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/system.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/timer.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/viewport/camera.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/managers/viewport/simplebuffer.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/types.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/utils/bitmap.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/utils/custom.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/utils/extview.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/utils/file.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/utils/font.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/utils/palette.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/ace/utils/tag.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/mini_std/printf.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/mini_std/stdint.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/mini_std/stdio.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../ACE/include/mini_std/string.h
+CMakeFiles/amimage.elf.dir/menu.c.obj: ../menu.c
+

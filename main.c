@@ -8,7 +8,7 @@ extern tState g_sStateMenu;
 
 void genericCreate(void) {
 	g_pStateMachineGame = stateManagerCreate();
-	statePush(g_pStateMachineGame, &g_sStateGame);
+	statePush(g_pStateMachineGame, &g_sStateMenu);
 }
 
 void genericProcess(void) {
