@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-a8a27b118b9448fd02ccf4b15325fc09 data/amimage.plt
-c0a705671a9e9855a7a56f02b0bc3284 data/arco32.bm
